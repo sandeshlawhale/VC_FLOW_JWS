@@ -10,7 +10,7 @@
 
 ```node index.js gen-did keys/subject.json```
 
-> Make sure u have ```keys/issuer.json``` before running this command.
+> Make sure u have ```keys/subject.json``` before running this command.
 
 ### 3. Issue a VC JWT
 
